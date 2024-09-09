@@ -1,0 +1,92 @@
+[
+    {
+        "id": "bbc-news",
+        "name": "BBC NEWS",
+        "author": "Jane Smith",
+        "title": "Another Important Event around the world",
+        "url": "https:/cdn.bbc.com/news/images/important-event",
+        "urlToimage":"https:/cdn.bbc.com/news/images/important-event.jpg",
+        "publishedAt": "2024-09-08T10:20:00Z",
+        "content": "This is the full article content for the important event happening globally"
+    },
+    {
+        "id": "times-of-india",
+        "name": "Times of India",
+        "author": "TOI",
+        "title": "Elon Musk Likely to become the first trillionare by 2027",
+        "url": "https://static.toiimg.com/thumb/msid-113179333,imgsize-39600,width-400,resizemode-4/113179333",
+        "urlToimage":"https:/cdn.bbc.com/news/images/important-event.jpg",
+        "publishedAt": "2024-09-07T14:45:00Z",
+        "content": "This article discusses the major incident that occurred in the city."
+    },
+    {
+        "id": "ny-times",
+        "name": "New York Times",
+        "author": "Emily Johnson",
+        "title": "Technology Revolutionizing Industries",
+        "url": "https:/cdn.nytimes.com/news/images/tech-revolution.jpg",
+        "urlToimage":"https:/cdn.bbc.com/news/images/important-event.jpg",
+        "publishedAt": "2024-09-06T09:15:00Z",
+        "content": "An overview of how technology is rapidly changing industries worldwide."
+    },
+    {
+        "id": "the-guardian",
+        "name": "The Guardian",
+        "author": "Alice Brown",
+        "title": "Climate Change Impacts on Agriculture",
+        "url": "https:/cdn.theguardian.com/news/images/climate-agriculture.jpg",
+        "urlToimage":"https:/cdn.bbc.com/news/images/important-event.jpg",
+        "publishedAt": "2024-09-05T16:30:00Z",
+        "content": "A deep dive into the effects of climate change on global agriculture."
+    },
+    {
+        "id": "al-jazeera",
+        "name": "Al Jazeera",
+        "author": "Mohammed Ali",
+        "title": "Economic Crisis Looming in Multiple Countries",
+        "url": "https:/cdn.aljazeera.com/news/images/economic-crisis.jpg",
+        "urlToimage":"https:/cdn.bbc.com/news/images/important-event.jpg",
+        "publishedAt": "2024-09-04T12:00:00Z",
+        "content": "Analysis of the ongoing economic crisis affecting several nations."
+    },
+    {
+        "id": "reuters",
+        "name": "Reuters",
+        "author": "David White",
+        "title": "Space Exploration: New Mission to Mars",
+        "url": "https:/cdn.reuters.com/news/images/mars-mission.jpg",
+        "urlToimage":"https:/cdn.bbc.com/news/images/important-event.jpg",
+        "publishedAt": "2024-09-03T08:45:00Z",
+        "content": "Details on the new mission to Mars and its objectives."
+    },
+    {
+        "id": "the-guardian",
+        "name": "The Guardian",
+        "author": "Alice Brown",
+        "title": "Climate Change Impacts on Agriculture",
+        "url": "https:/cdn.theguardian.com/news/images/climate-agriculture.jpg",
+        "urlToimage":"https:/cdn.bbc.com/news/images/important-event.jpg",
+        "publishedAt": "2024-09-05T16:30:00Z",
+        "content": "A deep dive into the effects of climate change on global agriculture."
+    },
+    {
+        "id": "al-jazeera",
+        "name": "Al Jazeera",
+        "author": "Mohammed Ali",
+        "title": "Economic Crisis Looming in Multiple Countries",
+        "url": "https:/cdn.aljazeera.com/news/images/economic-crisis.jpg",
+        "urlToimage":"https:/cdn.bbc.com/news/images/important-event.jpg",
+        "publishedAt": "2024-09-04T12:00:00Z",
+        "content": "Analysis of the ongoing economic crisis affecting several nations."
+    },
+    {
+        "id": "reuters",
+        "name": "Reuters",
+        "author": "David White",
+        "title": "Space Exploration: New Mission to Mars",
+        "url": "https:/cdn.reuters.com/news/images/mars-mission.jpg",
+        "urlToimage":"https:/cdn.bbc.com/news/images/important-event.jpg",
+        "publishedAt": "2024-09-03T08:45:00Z",
+        "content": "Details on the new mission to Mars and its objectives."
+    }
+]
