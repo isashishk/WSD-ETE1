@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>News</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <script defer src="news.js"></script>
+</head>
+<body class="bg-gray-100">
+    <nav class="bg-gray-800 p-4 text-white">
+        <div class="container mx-auto flex justify-between items-center">
+            <a href="index.html" class="text-lg font-semibold">News App</a>
+            <ul class="flex space-x-4">
+                <li><a href="index.html" class="hover:text-blue-300">Home</a></li>
+                <li><a href="register.html" class="hover:text-blue-300">Register</a></li>
+                <li><a href="news.html" class="hover:text-blue-300">News</a></li>
+            </ul>
+        </div>
+    </nav>
+    
+
+    <div class="container mx-auto p-6">
+        <h2 class="text-xl font-semibold mb-4">Latest News</h2>
+
+        <!-- Sort Dropdown -->
+        <div class="mb-4">
+            <select title="sor" id="sortOption" onchange="sortNews()" class="border border-gray-300 p-2 rounded w-full">
+                <option value="default">Sort by</option>
+                <option value="author">Author Name (A-Z)</option>
+                <option value="date">Date Published (Newest First)</option>
+            </select>
+        </div>
+
+        <!-- News Container -->
+        <div id="news-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6"></div>
+
+        <!-- Pagination -->
+        <div id="pagination" class="flex justify-center mt-6"></div>
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>News Platform</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100">
+    <nav class="bg-gray-800 p-4 text-white">
+        <div class="container mx-auto flex justify-between items-center">
+            <a href="index.html" class="text-lg font-semibold">News App</a>
+            <ul class="flex space-x-4">
+                <li><a href="index.html" class="hover:text-blue-300">Home</a></li>
+                <li><a href="register.html" class="hover:text-blue-300">Register</a></li>
+                <li><a href="news.html" class="hover:text-blue-300">News</a></li>
+            </ul>
+        </div>
+    </nav>
+    
+
+    <section class="container mx-auto p-6">
+        <h2 class="text-xl font-semibold mb-4">Latest News</h2>
+        <input type="text" id="search" placeholder="Search news..." onkeyup="filterNews()" class="border border-gray-300 p-2 rounded w-full mb-4">
+        <div class="mb-4">
+            <select title="sor" id="sortOption" onchange="sortNews()" class="border border-gray-300 p-2 rounded w-full">
+                <option value="default">Sort by</option>
+                <option value="author">Author Name (A-Z)</option>
+                <option value="date">Date Published (Newest First)</option>
+            </select>
+        </div>
+        <div id="news-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6"></div>
+        <div id="pagination" class="flex justify-center mt-6"></div>
+    </section>
+
+    <section class="container mx-auto p-6">
+        <h2 class="text-xl font-semibold mb-4">Sign Up to View Full News</h2>
+        <form id="registerForm" onsubmit="validateForm(event)" class="bg-white p-6 shadow-lg rounded-lg">
+            <div class="mb-4">
+                <input type="text" id="name" placeholder="Name" required class="border border-gray-300 p-2 rounded w-full">
+            </div>
+            <div class="mb-4">
+                <input type="email" id="email" placeholder="Email" required class="border border-gray-300 p-2 rounded w-full">
+            </div>
+            <div class="mb-4">
+                <input type="password" id="password" placeholder="Password" required class="border border-gray-300 p-2 rounded w-full">
+            </div>
+            <button type="submit" class="bg-blue-500 text-white p-2 rounded w-full hover:bg-blue-600">Register</button>
+            <div id="error-message" class="text-red-500 mt-4"></div>
+        </form>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>

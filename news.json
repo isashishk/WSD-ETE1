@@ -88,15 +88,5 @@
         "urlToimage":"https:/cdn.bbc.com/news/images/important-event.jpg",
         "publishedAt": "2024-09-03T08:45:00Z",
         "content": "Details on the new mission to Mars and its objectives."
-    },
-    {
-        "id": "marvel",
-        "name":"Marvel",
-        "author":"Stan Lee",
-        "title":"The Amazing SpiderMan 2"
-        "url":"",
-        "urlToimage":"",
-        "publishedAt":"2018-08-03T08:23:00Z",
-        "content":"The amazing spiderman"
     }
 ]
