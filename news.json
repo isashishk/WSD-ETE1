@@ -65,7 +65,7 @@
         "author": "Michael Carter",
         "title": "Breakthrough in Cancer Research",
         "url": "https://www.cnn.com/2024/09/10/health/cancer-research-breakthrough/index.html",
-        "urlToImage": "https://images.unsplash.com/photo-1519183071298-a2962f7cc5a4?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&q=80&w=2070&auto=format&fit=crop",
+        "urlToimage": "https://images.unsplash.com/photo-1519183071298-a2962f7cc5a4?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&q=80&w=2070&auto=format&fit=crop",
         "publishedAt": "2024-09-10T07:00:00Z",
         "content": "Scientists have made a groundbreaking discovery in the treatment of cancer, potentially paving the way for new therapies."
     },
@@ -75,7 +75,7 @@
         "author": "Sarah Adams",
         "title": "Global Markets Rally Amid Economic Uncertainty",
         "url": "https://www.bloomberg.com/news/articles/2024-09-09/global-markets-rally-amid-economic-uncertainty",
-        "urlToImage": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&q=80&w=2070&auto=format&fit=crop",
+        "urlToimage": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&q=80&w=2070&auto=format&fit=crop",
         "publishedAt": "2024-09-09T14:00:00Z",
         "content": "Stock markets around the world have seen a rally despite ongoing economic uncertainty, with investors showing renewed optimism."
     },
@@ -85,7 +85,7 @@
         "author": "Laura Baker",
         "title": "Top 10 Tech Innovations for 2024",
         "url": "https://www.forbes.com/sites/laurabaker/2024/09/08/top-10-tech-innovations-for-2024/",
-        "urlToImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&q=80&w=2070&auto=format&fit=crop",
+        "urlToimage": "https://images.unsplash.com/photo-1518770660439-4636190af475?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&q=80&w=2070&auto=format&fit=crop",
         "publishedAt": "2024-09-08T09:30:00Z",
         "content": "From AI to space travel, these are the top 10 technology innovations that are set to change industries and lifestyles in 2024."
     },
@@ -95,7 +95,7 @@
         "author": "Emma Green",
         "title": "New Species Discovered in Amazon Rainforest",
         "url": "https://www.nationalgeographic.com/environment/article/new-species-discovered-amazon-rainforest-2024",
-        "urlToImage": "https://images.unsplash.com/photo-1542057306-1415d1d4335f?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&q=80&w=2070&auto=format&fit=crop",
+        "urlToimage": "https://images.unsplash.com/photo-1542057306-1415d1d4335f?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&q=80&w=2070&auto=format&fit=crop",
         "publishedAt": "2024-09-07T11:00:00Z",
         "content": "Researchers have identified several new species in the Amazon, highlighting the biodiversity of one of the world's most vital ecosystems."
     },
@@ -105,7 +105,7 @@
         "author": "James Lee",
         "title": "How AI is Changing the Creative Industry",
         "url": "https://www.wired.com/story/ai-creative-industry-revolution-2024/",
-        "urlToImage": "https://images.unsplash.com/photo-1484417894907-623942c8ee29?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&q=80&w=2070&auto=format&fit=crop",
+        "urlToimage": "https://images.unsplash.com/photo-1484417894907-623942c8ee29?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&q=80&w=2070&auto=format&fit=crop",
         "publishedAt": "2024-09-06T08:00:00Z",
         "content": "Artificial Intelligence is transforming creative fields, from visual arts to music, offering new tools and possibilities for creators."
     }
