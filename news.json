@@ -59,7 +59,6 @@
         "publishedAt": "2024-09-03T08:45:00Z",
         "content": "Details on the new mission to Mars and its objectives."
     },
-  [
     {
         "id": "cnn-news",
         "name": "CNN",
@@ -110,6 +109,5 @@
         "publishedAt": "2024-09-06T08:00:00Z",
         "content": "Artificial Intelligence is transforming creative fields, from visual arts to music, offering new tools and possibilities for creators."
     }
-]
 
 ]
